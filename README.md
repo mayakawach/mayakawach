@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and mobile application/web development
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on beginner projects!
-- 📫 How to reach me? via LinkedIn @Maya Kawach
+- 📫 How to reach me? 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to crochet!
 
